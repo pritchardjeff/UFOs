@@ -9,7 +9,7 @@ The site we built will serve as a one stop shop for key data points collected on
 
 How to use the new site:
 
-Go to the Filter Search section of the website.  ![Filters.png] (https://github.com/pritchardjeff/UFOs/blob/master/ReadMe_Support/Filters.png)
+Go to the Filter Search section of the website, the fields currently populated show up by default and do not influence the table.  ![Filters.png] (https://github.com/pritchardjeff/UFOs/blob/master/ReadMe_Support/Filters.png)
 
 Enter your desired filter criteria, for this example we will look for triangle shaped UFOs in California.
 
