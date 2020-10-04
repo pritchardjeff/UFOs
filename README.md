@@ -9,9 +9,14 @@ The site we built will serve as a one stop shop for key data points collected on
 
 How to use the new site:
 
-### Step 1:
+Go to the Filter Search section of the website.
 
-Type in your desired filter, we will start with the Date Filter
+Enter your desired filter criteria, for this example we will look for triangle shaped UFOs in California.
+
+Enter triangle and ca into the filter.
+
+The data table should look like the image below.
+
 
 ## Summary
 
